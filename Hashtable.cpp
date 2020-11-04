@@ -1,3 +1,4 @@
+// This is a program that uses a hastable with chaining of linked lists.
 #include <bits/stdc++.h> 
 #include <list>
 #include <vector>
